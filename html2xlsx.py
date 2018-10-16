@@ -31,4 +31,4 @@ def htmltoxlsx(file_path, save_filename):
         print(e)
 
 
-htmltoxlsx('F:\\Python\\test\\安徽example.html', 'F:\\Python\\test\\example')
+htmltoxlsx('F:\\Python\\test\\example.html', 'F:\\Python\\test\\example')
